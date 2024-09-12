@@ -1,0 +1,21 @@
+Subject:  System Maintenance Alert
+From: IT Support (it.support@[yourcompany].com)
+
+Dear [Employee Name],
+
+Our systems have detected that your company-issued computer has failed to complete the latest required updates. This could lead to performance issues, loss of data and potential security vulnerabilities if not addressed immediately.
+
+To resolve this issue, please follow the instructions outlined in the attached PDF document to manually complete the update process.
+
+Download the instructions here: [Download PDF]
+
+Please ensure that this update is completed by [Insert Deadline] to avoid any disruptions to your workflow or access to company systems.
+
+If you experience any difficulties or need assistance, feel free to reach out to the IT Support team at it.support@[yourcompany].com
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+IT Support Team
+[Your Company Name]
+Email: it.support@[yourcompany].com
